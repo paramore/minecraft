@@ -1,6 +1,4 @@
 Minecraft
 =========
-
-# _Paramore
-# Dev for BioCraft
-# Most of my sources, except private ones of course will be here or open source!
+Most of my sources will be here, except private ones of course! You may use any of my code as long as you include
+the propper credit.
